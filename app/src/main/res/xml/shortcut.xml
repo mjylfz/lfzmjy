@@ -1,0 +1,33 @@
+<shortcut
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="calllfz"
+        android:enabled="true"
+        android:icon="@drawable/md"
+        android:shortcutShortLabel="@string/calllfzshort"
+        android:shortcutLongLabel="@string/calllfzlong"
+        android:shortcutDisabledMessage="@string/calllfzdisable"
+        >
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.lfz.lfzmjy"
+            android:targetClass="activity.SettingActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="callmjy"
+        android:enabled="true"
+        android:icon="@drawable/md2"
+        android:shortcutShortLabel="@string/callmjyshort"
+        android:shortcutLongLabel="@string/callmjylong"
+        android:shortcutDisabledMessage="@string/callmjydisable"
+        >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.lfz.lfzmjy"
+            android:targetClass="activity.SettingActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcut>

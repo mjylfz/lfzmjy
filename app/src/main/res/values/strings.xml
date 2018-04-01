@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">lfz&amp;mjy</string>
+    <string name="exit_signal">再按一次返回键退出</string>
+    <string name="mainpage">首页</string>
+    <string name="us">时间</string>
+    <string name="callme">call哼</string>
+    <string name="mg">管家</string>
+    <string name="oldy">纪念日</string>
+    <string name="aspiration">愿望</string>
+    <string name="call">情侣叫醒</string>
+    <string name="come">打卡</string>
+    <string name="mjybirth">香汪生日</string>
+    <string name="lfzbirth">臭哼生日</string>
+    <string name="firstkiss">第一次接吻</string>
+    <string name="firstmakelove">第一次羞羞</string>
+    <string name="firstlove">第一次在一起</string>
+    <string name="calllfzshort">call 哼</string>
+    <string name="firstdate">第一次约会</string>
+    <string name="calllfzlong">call 哼</string>
+    <string name="calllfzdisable">call 哼</string>
+
+    <string name="callmjyshort">call 汪</string>
+
+    <string name="callmjylong">call 汪</string>
+    <string name="callmjydisable">call 汪</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+</resources>

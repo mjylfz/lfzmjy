@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/registFace"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="注册面部"/>
+
+    <Button
+        android:id="@+id/detectFace"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="识别面部"/>
+    <Button
+        android:id="@+id/faceList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="所有注册的面部"/>
+
+    <Switch
+        android:id="@+id/openFaceDetected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
